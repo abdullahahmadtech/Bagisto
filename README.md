@@ -66,9 +66,6 @@ Develop and deploy your next headless commerce storefronts with Next JS and Bagi
 
 Revolutionize Your Online Store with Bagisto's Open Source eCommerce Mobile 
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/open-source-ecommerce-mobile.png)
-
-Mobile eCommerce powered by Flutter & Laravel: https://github.com/bagisto/opensource-ecommerce-mobile-app
 
 # AI Powered eCommerce
 
