@@ -90,18 +90,7 @@ Build [decentralised applications](https://bagisto.com/en/services/blockchain-co
 
 With Bagisto, you can easily create use cases for various commerce needs like Marketplaces, PWA, Native Mobile Apps, Multi-Tenants systems, Blockchain and many more.
 
-# Built In Extensions
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/built_in_extension.png)
-
-Make use of 100+ Bagisto pre-built extensions from [Bagisto Extension Markeptlace](https://bagisto.com/en/extensions/)
-
-# Community
-
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/community.png)
-
-Get Bagisto support on [Facebook Group](https://www.facebook.com/groups/bagisto) and [Forum](https://forums.bagisto.com/)
-Would like to help us build the most developer-friendly E-Commerce platform? Start by reading our [Contributing Guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md)!
 
 # License
 Bagisto is a fully open-source Laravel eCommerce framework that will always remain free under the [MIT License](https://github.com/bagisto/bagisto/blob/2.3/LICENSE).
